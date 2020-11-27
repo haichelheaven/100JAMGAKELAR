@@ -72,10 +72,10 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS1
 
 ## WARNING
 Jangan ubah ubah info, Hargai Karya orang lain bro
-jangan cuman modal nama doang
+jangan cuman modal nama doang punya aris87 id yaa
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Youtube Admin`](https://www.youtube.com/channel/
+* [`Instagram Admin`](https://instagram.com/haichelheaven)
+* [`WhatsApp Admin `](https://wa.me/)
 
