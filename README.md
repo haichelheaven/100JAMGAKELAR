@@ -1,4 +1,4 @@
-# 👾AR15BOT👾
+# HAIKAL
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -10,7 +10,7 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> kopi+rokok ;v
+> teh
 ```
 
 ### Cara Installnya
